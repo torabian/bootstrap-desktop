@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap-desktop",
+  "version": "1.0.0",
+  "description": "An override for bootstrap 5, to make it look like windows/macos/ubuntu desktop apps, useful for electron project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torabian/bootstrap-desktop.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "windows",
+    "theme",
+    "Bootstrap",
+    "Mac",
+    "Theme",
+    "Bootstrap",
+    "Ubuntu",
+    "theme"
+  ],
+  "author": "Ali Torabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torabian/bootstrap-desktop/issues"
+  },
+  "homepage": "https://github.com/torabian/bootstrap-desktop#readme"
+}
